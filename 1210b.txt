@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 1210b
-=======
-bbb content  aaaaaa
->>>>>>> ebe1ca7cc077b464bd76ad86cb50439151e674e9
